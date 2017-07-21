@@ -131,3 +131,5 @@ function onListening() { /* ... */ }
 
 And finally you have to adjust the `config/config.json` to fit your environment.
 Once thats done, your database configuration is ready!
+ 
+Extra line
